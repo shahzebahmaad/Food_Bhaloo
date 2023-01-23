@@ -1,0 +1,43 @@
+[{
+    "id": 1,
+    "type":"Desi Food",
+    "image": "../../Images/Karahi.jpg",
+    "name":"Chicken Karahi",
+    "price": 1000 
+},
+{
+    "id": 2,
+    "type":"Desi Food",
+    "image": "../../Images/kebab.png",
+    "name":"Chicken Kebab",
+    "price": 500
+},
+{
+    "id": 3,
+    "type":"Desi Food",
+    "image": "../../Images/tikka.jpg",
+    "name":"Chicken Tikka",
+    "price": 700
+},
+{
+    "id": 4,
+    "type":"Italian Food",
+    "image": "../../Images/pasta.jpg",
+    "name":"Pasta",
+    "price": 1200
+},
+{
+    "id": 5,
+    "type":"Italian Food",
+    "image": "../../Images/bottarga.jpg",
+    "name":"Bottarga",
+    "price": 1800
+},
+{
+    "id": 6,
+    "type":"Continental Food",
+    "name":"Pizza",
+    "image": "../../Images/pizza.jpg",
+    "price": 2000
+}
+]
